@@ -16,7 +16,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="pat_chooser" type="xstring" value="/Applications/freesurfer/"/>
+<entry key="pat_chooser" type="xstring" value="/Users/alex/Desktop/train_emc/train_emc_001"/>
 <config key="side_chooser_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_stringarray"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -35,11 +35,11 @@
 </config>
 </config>
 <config key="nodeAnnotation">
-<entry key="text" type="xstring" value="/Applications/freesurfer/"/>
+<entry key="text" type="xstring" value="/Users/alex/Desktop/train_emc/train_emc_001"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="522"/>
+<entry key="x-coordinate" type="xint" value="453"/>
 <entry key="y-coordinate" type="xint" value="627"/>
-<entry key="width" type="xint" value="159"/>
+<entry key="width" type="xint" value="296"/>
 <entry key="height" type="xint" value="16"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <config key="styles"/>
@@ -52,6 +52,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="31432714-b24f-47a7-87f6-a6ad0c322d08"/>
+<entry key="file_store_id" type="xstring" value="2be4b101-c36a-4e36-989a-3236caaf79ba"/>
 </config>
 </config>
